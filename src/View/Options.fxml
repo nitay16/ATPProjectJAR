@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.effect.InnerShadow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="550.0" prefWidth="800.0" style="-fx-background-image: url(/Images/BackGroundForALL.png);" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.Options">
+   <children>
+      <Button layoutX="39.0" layoutY="484.0" mnemonicParsing="false" onAction="#BackButtonOptions" style="-fx-background-color: #ffff66;" text="Back">
+         <font>
+            <Font name="Bauhaus 93" size="18.0" />
+         </font>
+         <effect>
+            <DropShadow />
+         </effect></Button>
+      <Button fx:id="Empty" layoutX="245.0" layoutY="158.0" mnemonicParsing="false" onAction="#ButtonEmptyMaze" prefHeight="50.0" prefWidth="102.0" text="Empty Maze">
+         <font>
+            <Font name="Bauhaus 93" size="14.0" />
+         </font>
+         <effect>
+            <DropShadow />
+         </effect>
+      </Button>
+      <Button fx:id="Simple" layoutX="469.0" layoutY="158.0" mnemonicParsing="false" onAction="#ButtonSimpleMaze" prefHeight="50.0" prefWidth="102.0"  text="Simple Maze">
+         <font>
+            <Font name="Bauhaus 93" size="14.0" />
+         </font>
+         <effect>
+            <DropShadow />
+         </effect>
+      </Button>
+      <Button fx:id="Mymaze" layoutX="355.0" layoutY="158.0" mnemonicParsing="false" onAction="#ButtonMyMaze" prefHeight="50.0" style="-fx-background-color: #ffff66;" prefWidth="102.0" text="My Maze">
+         <font>
+            <Font name="Bauhaus 93" size="14.0" />
+         </font>
+         <effect>
+            <DropShadow />
+         </effect>
+      </Button>
+      <Button fx:id="BFS" layoutX="244.0" layoutY="275.0" mnemonicParsing="false" onAction="#BFSButton" prefHeight="50.0" prefWidth="102.0" text="BFS">
+         <font>
+            <Font name="Bauhaus 93" size="14.0" />
+         </font>
+         <effect>
+            <DropShadow />
+         </effect>
+      </Button>
+      <Button fx:id="DFS" layoutX="355.0" layoutY="275.0" mnemonicParsing="false" onAction="#DFSButton" prefHeight="50.0" prefWidth="102.0" style="-fx-background-color: #ffff66;" text="DFS">
+         <font>
+            <Font name="Bauhaus 93" size="14.0" />
+         </font>
+         <effect>
+            <DropShadow />
+         </effect>
+      </Button>
+      <Button fx:id="bestFS" layoutX="469.0" layoutY="275.0" mnemonicParsing="false" onAction="#BestFSButton" prefHeight="50.0" prefWidth="102.0" text="BestFS">
+         <font>
+            <Font name="Bauhaus 93" size="14.0" />
+         </font>
+         <effect>
+            <DropShadow />
+         </effect>
+      </Button>
+      <Label layoutX="328.0" layoutY="41.0" prefHeight="42.0" prefWidth="198.0" text="Properties">
+         <font>
+            <Font name="Bauhaus 93" size="36.0" />
+         </font>
+         <effect>
+            <InnerShadow>
+               <color>
+                  <Color red="0.4666406810283661" green="0.49473685026168823" blue="0.1575828492641449" />
+               </color>
+            </InnerShadow>
+         </effect>
+      </Label>
+      <Label layoutX="297.0" layoutY="104.0" prefHeight="42.0" prefWidth="236.0" text="Maze generator type:">
+         <font>
+            <Font name="Bauhaus 93" size="24.0" />
+         </font>
+         <effect>
+            <InnerShadow>
+               <color>
+                  <Color red="0.4666406810283661" green="0.49473685026168823" blue="0.1575828492641449" />
+               </color>
+            </InnerShadow>
+         </effect>
+      </Label>
+      <Label layoutX="320.0" layoutY="232.0" prefHeight="42.0" prefWidth="190.0" text="Maze Solver type:">
+         <font>
+            <Font name="Bauhaus 93" size="24.0" />
+         </font>
+         <effect>
+            <InnerShadow>
+               <color>
+                  <Color red="0.4666406810283661" green="0.49473685026168823" blue="0.1575828492641449" />
+               </color>
+            </InnerShadow>
+         </effect>
+      </Label>
+   </children>
+</AnchorPane>

@@ -1,0 +1,1359 @@
+19:05:46.751 [Thread-4] INFO  Server - Wating For Cliens
+19:05:46.751 [Thread-3] INFO  Server - Wating For Cliens
+19:05:47.755 [Thread-3] INFO  Server - Wating For Cliens
+19:05:47.755 [Thread-4] INFO  Server - Wating For Cliens
+19:05:48.755 [Thread-3] INFO  Server - Wating For Cliens
+19:05:48.755 [Thread-4] INFO  Server - Wating For Cliens
+19:05:49.755 [Thread-3] INFO  Server - Wating For Cliens
+19:05:49.755 [Thread-4] INFO  Server - Wating For Cliens
+19:05:49.811 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5400
+19:05:49.825 [pool-3-thread-1] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/10.100.102.43,port=52003,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 19 Cols: 19
+19:05:50.755 [Thread-4] INFO  Server - Wating For Cliens
+19:05:50.812 [Thread-3] INFO  Server - Wating For Cliens
+19:05:51.756 [Thread-4] INFO  Server - Wating For Cliens
+19:05:51.812 [Thread-3] INFO  Server - Wating For Cliens
+19:05:52.756 [Thread-4] INFO  Server - Wating For Cliens
+19:05:52.812 [Thread-3] INFO  Server - Wating For Cliens
+19:05:53.758 [Thread-4] INFO  Server - Wating For Cliens
+19:05:53.812 [Thread-3] INFO  Server - Wating For Cliens
+19:05:54.758 [Thread-4] INFO  Server - Wating For Cliens
+19:05:54.812 [Thread-3] INFO  Server - Wating For Cliens
+19:05:55.758 [Thread-4] INFO  Server - Wating For Cliens
+19:05:55.813 [Thread-3] INFO  Server - Wating For Cliens
+19:05:56.759 [Thread-4] INFO  Server - Wating For Cliens
+19:05:56.813 [Thread-3] INFO  Server - Wating For Cliens
+19:05:57.759 [Thread-4] INFO  Server - Wating For Cliens
+19:05:57.813 [Thread-3] INFO  Server - Wating For Cliens
+19:05:58.759 [Thread-4] INFO  Server - Wating For Cliens
+19:05:58.813 [Thread-3] INFO  Server - Wating For Cliens
+19:05:59.760 [Thread-4] INFO  Server - Wating For Cliens
+19:05:59.814 [Thread-3] INFO  Server - Wating For Cliens
+19:06:00.760 [Thread-4] INFO  Server - Wating For Cliens
+19:06:00.814 [Thread-3] INFO  Server - Wating For Cliens
+19:06:01.664 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:01.693 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52034,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 19 Cols: 19
+19:06:01.814 [Thread-3] INFO  Server - Wating For Cliens
+19:06:02.230 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:02.240 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52037,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 19 Cols: 19
+19:06:02.364 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:02.372 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52038,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 19 Cols: 19
+19:06:02.769 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:02.778 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52040,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 19 Cols: 19
+19:06:02.814 [Thread-3] INFO  Server - Wating For Cliens
+19:06:03.110 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:03.118 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52042,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 19 Cols: 19
+19:06:03.484 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:03.492 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52044,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 19 Cols: 19
+19:06:03.814 [Thread-3] INFO  Server - Wating For Cliens
+19:06:03.888 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:03.896 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52046,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 19 Cols: 19
+19:06:04.191 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:04.198 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52048,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 19 Cols: 19
+19:06:04.385 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:04.393 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52049,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 19 Cols: 19
+19:06:04.816 [Thread-3] INFO  Server - Wating For Cliens
+19:06:04.858 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:04.865 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52052,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 19 Cols: 19
+19:06:05.176 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:05.498 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52053,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 19 Cols: 19
+19:06:05.816 [Thread-3] INFO  Server - Wating For Cliens
+19:06:06.166 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:06.173 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52058,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 19 Cols: 19
+19:06:06.760 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:06.767 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52060,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 19 Cols: 19
+19:06:06.816 [Thread-3] INFO  Server - Wating For Cliens
+19:06:07.199 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:07.207 [JavaFX Application Thread] ERROR ServerStrategySolveSearchProblem - Can't Create Solution
+19:06:07.816 [Thread-3] INFO  Server - Wating For Cliens
+19:06:08.199 [Thread-4] INFO  Server - Wating For Cliens
+19:06:08.817 [Thread-3] INFO  Server - Wating For Cliens
+19:06:09.199 [Thread-4] INFO  Server - Wating For Cliens
+19:06:09.817 [Thread-3] INFO  Server - Wating For Cliens
+19:06:10.199 [Thread-4] INFO  Server - Wating For Cliens
+19:06:10.817 [Thread-3] INFO  Server - Wating For Cliens
+19:06:11.200 [Thread-4] INFO  Server - Wating For Cliens
+19:06:11.353 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5400
+19:06:11.354 [pool-3-thread-2] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/10.100.102.43,port=52074,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 15 Cols: 15
+19:06:12.200 [Thread-4] INFO  Server - Wating For Cliens
+19:06:12.353 [Thread-3] INFO  Server - Wating For Cliens
+19:06:13.200 [Thread-4] INFO  Server - Wating For Cliens
+19:06:13.354 [Thread-3] INFO  Server - Wating For Cliens
+19:06:14.200 [Thread-4] INFO  Server - Wating For Cliens
+19:06:14.354 [Thread-3] INFO  Server - Wating For Cliens
+19:06:15.201 [Thread-4] INFO  Server - Wating For Cliens
+19:06:15.354 [Thread-3] INFO  Server - Wating For Cliens
+19:06:16.201 [Thread-4] INFO  Server - Wating For Cliens
+19:06:16.354 [Thread-3] INFO  Server - Wating For Cliens
+19:06:17.201 [Thread-4] INFO  Server - Wating For Cliens
+19:06:17.354 [Thread-3] INFO  Server - Wating For Cliens
+19:06:18.201 [Thread-4] INFO  Server - Wating For Cliens
+19:06:18.354 [Thread-3] INFO  Server - Wating For Cliens
+19:06:19.201 [Thread-4] INFO  Server - Wating For Cliens
+19:06:19.354 [Thread-3] INFO  Server - Wating For Cliens
+19:06:20.202 [Thread-4] INFO  Server - Wating For Cliens
+19:06:20.354 [Thread-3] INFO  Server - Wating For Cliens
+19:06:21.203 [Thread-4] INFO  Server - Wating For Cliens
+19:06:21.355 [Thread-3] INFO  Server - Wating For Cliens
+19:06:22.203 [Thread-4] INFO  Server - Wating For Cliens
+19:06:22.355 [Thread-3] INFO  Server - Wating For Cliens
+19:06:23.202 [Thread-4] INFO  Server - Wating For Cliens
+19:06:23.355 [Thread-3] INFO  Server - Wating For Cliens
+19:06:23.843 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5400
+19:06:23.843 [pool-3-thread-3] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/10.100.102.43,port=52108,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 22 Cols: 22
+19:06:24.203 [Thread-4] INFO  Server - Wating For Cliens
+19:06:24.842 [Thread-3] INFO  Server - Wating For Cliens
+19:06:25.203 [Thread-4] INFO  Server - Wating For Cliens
+19:06:25.843 [Thread-3] INFO  Server - Wating For Cliens
+19:06:26.203 [Thread-4] INFO  Server - Wating For Cliens
+19:06:26.843 [Thread-3] INFO  Server - Wating For Cliens
+19:06:27.203 [Thread-4] INFO  Server - Wating For Cliens
+19:06:27.843 [Thread-3] INFO  Server - Wating For Cliens
+19:06:28.204 [Thread-4] INFO  Server - Wating For Cliens
+19:06:28.844 [Thread-3] INFO  Server - Wating For Cliens
+19:06:29.204 [Thread-4] INFO  Server - Wating For Cliens
+19:06:29.843 [Thread-3] INFO  Server - Wating For Cliens
+19:06:30.204 [Thread-4] INFO  Server - Wating For Cliens
+19:06:30.844 [Thread-3] INFO  Server - Wating For Cliens
+19:06:31.204 [Thread-4] INFO  Server - Wating For Cliens
+19:06:31.845 [Thread-3] INFO  Server - Wating For Cliens
+19:06:32.204 [Thread-4] INFO  Server - Wating For Cliens
+19:06:32.845 [Thread-3] INFO  Server - Wating For Cliens
+19:06:33.086 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:33.090 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52133,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:33.845 [Thread-3] INFO  Server - Wating For Cliens
+19:06:34.085 [Thread-4] INFO  Server - Wating For Cliens
+19:06:34.270 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:34.277 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52136,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:34.622 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:34.629 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52139,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:34.793 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:34.800 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52140,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:34.845 [Thread-3] INFO  Server - Wating For Cliens
+19:06:35.221 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:35.227 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52142,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:35.596 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:35.602 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52145,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:35.846 [Thread-3] INFO  Server - Wating For Cliens
+19:06:36.013 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:36.019 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52146,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:36.153 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:36.158 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52147,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:36.414 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:36.421 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52149,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:36.846 [Thread-3] INFO  Server - Wating For Cliens
+19:06:37.017 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:37.023 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52158,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:37.424 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:37.430 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52160,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:37.682 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:37.687 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52162,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:37.847 [Thread-3] INFO  Server - Wating For Cliens
+19:06:37.978 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:37.983 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52163,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:38.155 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:38.162 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52165,localport=5401] Get Solution That Was Exist.
+19:06:38.465 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:38.468 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52166,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:38.847 [Thread-3] INFO  Server - Wating For Cliens
+19:06:39.040 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:39.046 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52169,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:39.443 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:39.449 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52171,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:39.807 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:39.813 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52173,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:39.847 [Thread-3] INFO  Server - Wating For Cliens
+19:06:40.273 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:40.280 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52175,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:40.483 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:40.489 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52176,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:40.845 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:40.848 [Thread-3] INFO  Server - Wating For Cliens
+19:06:40.851 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52179,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:41.245 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:41.251 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52181,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:41.558 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:41.563 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52182,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:41.772 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:41.779 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52185,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:41.847 [Thread-3] INFO  Server - Wating For Cliens
+19:06:42.324 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:42.329 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52186,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:42.469 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:42.477 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52188,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:42.848 [Thread-3] INFO  Server - Wating For Cliens
+19:06:42.866 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:42.872 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52190,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:43.188 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:43.193 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52192,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:43.309 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:43.316 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52193,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:43.520 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:43.525 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52194,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:43.848 [Thread-3] INFO  Server - Wating For Cliens
+19:06:43.952 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:43.958 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52197,localport=5401] Solve Maze With: BestFirstSearch With Size Of: Rows: 15 Cols: 15
+19:06:44.335 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:06:44.340 [JavaFX Application Thread] ERROR ServerStrategySolveSearchProblem - Can't Create Solution
+19:06:44.849 [Thread-3] INFO  Server - Wating For Cliens
+19:06:45.335 [Thread-4] INFO  Server - Wating For Cliens
+19:06:45.848 [Thread-3] INFO  Server - Wating For Cliens
+19:06:46.335 [Thread-4] INFO  Server - Wating For Cliens
+19:06:46.849 [Thread-3] INFO  Server - Wating For Cliens
+19:06:47.336 [Thread-4] INFO  Server - Wating For Cliens
+19:06:47.849 [Thread-3] INFO  Server - Wating For Cliens
+19:06:48.336 [Thread-4] INFO  Server - Wating For Cliens
+19:06:48.849 [Thread-3] INFO  Server - Wating For Cliens
+19:06:49.336 [Thread-4] INFO  Server - Wating For Cliens
+19:06:49.849 [Thread-3] INFO  Server - Wating For Cliens
+19:06:50.338 [Thread-4] INFO  Server - Wating For Cliens
+19:06:50.850 [Thread-3] INFO  Server - Wating For Cliens
+19:06:51.338 [Thread-4] INFO  Server - Wating For Cliens
+19:06:51.849 [Thread-3] INFO  Server - Wating For Cliens
+19:06:52.338 [Thread-4] INFO  Server - Wating For Cliens
+19:06:52.850 [Thread-3] INFO  Server - Wating For Cliens
+19:06:53.339 [Thread-4] INFO  Server - Wating For Cliens
+19:06:53.850 [Thread-3] INFO  Server - Wating For Cliens
+19:06:54.339 [Thread-4] INFO  Server - Wating For Cliens
+19:06:54.851 [Thread-3] INFO  Server - Wating For Cliens
+19:06:55.341 [Thread-4] INFO  Server - Wating For Cliens
+19:06:55.851 [Thread-3] INFO  Server - Wating For Cliens
+19:06:56.341 [Thread-4] INFO  Server - Wating For Cliens
+19:06:56.850 [Thread-3] INFO  Server - Wating For Cliens
+19:06:57.341 [Thread-4] INFO  Server - Wating For Cliens
+19:06:57.852 [Thread-3] INFO  Server - Wating For Cliens
+19:06:58.342 [Thread-4] INFO  Server - Wating For Cliens
+19:06:58.852 [Thread-3] INFO  Server - Wating For Cliens
+19:06:59.342 [Thread-4] INFO  Server - Wating For Cliens
+19:06:59.852 [Thread-3] INFO  Server - Wating For Cliens
+19:07:00.341 [Thread-4] INFO  Server - Wating For Cliens
+19:07:00.852 [Thread-3] INFO  Server - Wating For Cliens
+19:07:01.342 [Thread-4] INFO  Server - Wating For Cliens
+19:07:01.852 [Thread-3] INFO  Server - Wating For Cliens
+19:07:02.342 [Thread-4] INFO  Server - Wating For Cliens
+19:07:02.852 [Thread-3] INFO  Server - Wating For Cliens
+19:07:03.341 [Thread-4] INFO  Server - Wating For Cliens
+19:07:03.853 [Thread-3] INFO  Server - Wating For Cliens
+19:07:04.342 [Thread-4] INFO  Server - Wating For Cliens
+19:07:04.852 [Thread-3] INFO  Server - Wating For Cliens
+19:07:05.343 [Thread-4] INFO  Server - Wating For Cliens
+19:07:05.853 [Thread-3] INFO  Server - Wating For Cliens
+19:07:06.343 [Thread-4] INFO  Server - Wating For Cliens
+19:07:06.853 [Thread-3] INFO  Server - Wating For Cliens
+19:07:07.344 [Thread-4] INFO  Server - Wating For Cliens
+19:07:07.853 [Thread-3] INFO  Server - Wating For Cliens
+19:07:08.344 [Thread-4] INFO  Server - Wating For Cliens
+19:07:08.853 [Thread-3] INFO  Server - Wating For Cliens
+19:07:09.285 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:09.292 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52264,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:09.840 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:09.843 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52267,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:09.853 [Thread-3] INFO  Server - Wating For Cliens
+19:07:10.001 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:10.007 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52268,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:10.380 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:10.384 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52271,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:10.652 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:10.656 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52272,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:10.854 [Thread-3] INFO  Server - Wating For Cliens
+19:07:10.894 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:10.899 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52273,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:11.089 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:11.094 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52275,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:11.255 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:11.259 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52276,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:11.475 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:11.480 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52278,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:11.844 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:11.847 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52280,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:11.854 [Thread-3] INFO  Server - Wating For Cliens
+19:07:12.140 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:12.144 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52281,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:12.299 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:12.305 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52283,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:12.453 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:12.456 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52285,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:12.669 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:12.672 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52286,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:12.855 [Thread-3] INFO  Server - Wating For Cliens
+19:07:12.971 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:12.974 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52288,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:13.296 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:13.299 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52289,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:13.444 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:13.448 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52292,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:13.855 [Thread-3] INFO  Server - Wating For Cliens
+19:07:13.873 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:13.876 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52293,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:14.188 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:14.192 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52295,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:14.343 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:14.347 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52296,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:14.496 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:14.500 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52298,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:14.721 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:14.724 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=52300,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:07:14.854 [Thread-3] INFO  Server - Wating For Cliens
+19:07:15.263 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:07:15.267 [JavaFX Application Thread] ERROR ServerStrategySolveSearchProblem - Can't Create Solution
+19:07:15.854 [Thread-3] INFO  Server - Wating For Cliens
+19:07:16.264 [Thread-4] INFO  Server - Wating For Cliens
+19:07:16.855 [Thread-3] INFO  Server - Wating For Cliens
+19:07:17.263 [Thread-4] INFO  Server - Wating For Cliens
+19:07:17.856 [Thread-3] INFO  Server - Wating For Cliens
+19:07:18.264 [Thread-4] INFO  Server - Wating For Cliens
+19:07:18.857 [Thread-3] INFO  Server - Wating For Cliens
+19:07:19.265 [Thread-4] INFO  Server - Wating For Cliens
+19:07:19.856 [Thread-3] INFO  Server - Wating For Cliens
+19:07:20.264 [Thread-4] INFO  Server - Wating For Cliens
+19:07:20.790 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5400
+19:07:20.791 [pool-3-thread-4] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/10.100.102.43,port=52317,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 21 Cols: 21
+19:07:21.264 [Thread-4] INFO  Server - Wating For Cliens
+19:07:21.790 [Thread-3] INFO  Server - Wating For Cliens
+19:07:22.265 [Thread-4] INFO  Server - Wating For Cliens
+19:07:22.789 [Thread-3] INFO  Server - Wating For Cliens
+19:07:23.265 [Thread-4] INFO  Server - Wating For Cliens
+19:07:23.790 [Thread-3] INFO  Server - Wating For Cliens
+19:07:23.804 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5400
+19:07:23.804 [pool-3-thread-1] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/10.100.102.43,port=52326,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 3 Cols: 3
+19:07:24.265 [Thread-4] INFO  Server - Wating For Cliens
+19:07:24.804 [Thread-3] INFO  Server - Wating For Cliens
+19:07:25.265 [Thread-4] INFO  Server - Wating For Cliens
+19:07:25.804 [Thread-3] INFO  Server - Wating For Cliens
+19:07:26.266 [Thread-4] INFO  Server - Wating For Cliens
+19:07:26.805 [Thread-3] INFO  Server - Wating For Cliens
+19:07:27.266 [Thread-4] INFO  Server - Wating For Cliens
+19:07:27.805 [Thread-3] INFO  Server - Wating For Cliens
+19:07:28.266 [Thread-4] INFO  Server - Wating For Cliens
+19:07:28.804 [Thread-3] INFO  Server - Wating For Cliens
+19:07:29.265 [Thread-4] INFO  Server - Wating For Cliens
+19:39:42.736 [Thread-4] INFO  Server - Wating For Cliens
+19:39:42.736 [Thread-3] INFO  Server - Wating For Cliens
+19:39:43.738 [Thread-4] INFO  Server - Wating For Cliens
+19:39:43.738 [Thread-3] INFO  Server - Wating For Cliens
+19:40:08.202 [Thread-4] INFO  Server - Wating For Cliens
+19:40:08.202 [Thread-3] INFO  Server - Wating For Cliens
+19:40:09.205 [Thread-3] INFO  Server - Wating For Cliens
+19:40:09.205 [Thread-4] INFO  Server - Wating For Cliens
+19:40:10.205 [Thread-4] INFO  Server - Wating For Cliens
+19:40:10.205 [Thread-3] INFO  Server - Wating For Cliens
+19:40:11.206 [Thread-4] INFO  Server - Wating For Cliens
+19:40:11.206 [Thread-3] INFO  Server - Wating For Cliens
+19:40:12.206 [Thread-4] INFO  Server - Wating For Cliens
+19:40:12.206 [Thread-3] INFO  Server - Wating For Cliens
+19:40:13.207 [Thread-4] INFO  Server - Wating For Cliens
+19:40:13.207 [Thread-3] INFO  Server - Wating For Cliens
+19:40:14.207 [Thread-3] INFO  Server - Wating For Cliens
+19:40:14.207 [Thread-4] INFO  Server - Wating For Cliens
+19:40:15.207 [Thread-3] INFO  Server - Wating For Cliens
+19:40:15.208 [Thread-4] INFO  Server - Wating For Cliens
+19:40:16.207 [Thread-3] INFO  Server - Wating For Cliens
+19:40:16.207 [Thread-4] INFO  Server - Wating For Cliens
+19:40:17.208 [Thread-4] INFO  Server - Wating For Cliens
+19:40:17.208 [Thread-3] INFO  Server - Wating For Cliens
+19:40:18.208 [Thread-4] INFO  Server - Wating For Cliens
+19:40:18.208 [Thread-3] INFO  Server - Wating For Cliens
+19:40:19.209 [Thread-4] INFO  Server - Wating For Cliens
+19:40:19.209 [Thread-3] INFO  Server - Wating For Cliens
+19:40:20.209 [Thread-4] INFO  Server - Wating For Cliens
+19:40:20.209 [Thread-3] INFO  Server - Wating For Cliens
+19:40:21.209 [Thread-3] INFO  Server - Wating For Cliens
+19:40:21.209 [Thread-4] INFO  Server - Wating For Cliens
+19:40:22.210 [Thread-3] INFO  Server - Wating For Cliens
+19:40:22.210 [Thread-4] INFO  Server - Wating For Cliens
+19:40:23.210 [Thread-3] INFO  Server - Wating For Cliens
+19:40:23.210 [Thread-4] INFO  Server - Wating For Cliens
+19:41:03.071 [Thread-4] INFO  Server - Wating For Cliens
+19:41:03.071 [Thread-3] INFO  Server - Wating For Cliens
+19:41:04.072 [Thread-4] INFO  Server - Wating For Cliens
+19:41:04.072 [Thread-3] INFO  Server - Wating For Cliens
+19:41:05.073 [Thread-3] INFO  Server - Wating For Cliens
+19:41:05.073 [Thread-4] INFO  Server - Wating For Cliens
+19:41:06.073 [Thread-3] INFO  Server - Wating For Cliens
+19:41:06.073 [Thread-4] INFO  Server - Wating For Cliens
+19:41:07.074 [Thread-4] INFO  Server - Wating For Cliens
+19:41:07.074 [Thread-3] INFO  Server - Wating For Cliens
+19:41:08.074 [Thread-3] INFO  Server - Wating For Cliens
+19:41:08.074 [Thread-4] INFO  Server - Wating For Cliens
+19:41:09.074 [Thread-3] INFO  Server - Wating For Cliens
+19:41:09.074 [Thread-4] INFO  Server - Wating For Cliens
+19:41:10.074 [Thread-3] INFO  Server - Wating For Cliens
+19:41:10.074 [Thread-4] INFO  Server - Wating For Cliens
+19:41:11.076 [Thread-3] INFO  Server - Wating For Cliens
+19:41:11.076 [Thread-4] INFO  Server - Wating For Cliens
+19:41:12.076 [Thread-3] INFO  Server - Wating For Cliens
+19:41:12.076 [Thread-4] INFO  Server - Wating For Cliens
+19:41:13.076 [Thread-4] INFO  Server - Wating For Cliens
+19:41:13.076 [Thread-3] INFO  Server - Wating For Cliens
+19:41:14.076 [Thread-3] INFO  Server - Wating For Cliens
+19:41:14.076 [Thread-4] INFO  Server - Wating For Cliens
+19:41:15.076 [Thread-3] INFO  Server - Wating For Cliens
+19:41:15.077 [Thread-4] INFO  Server - Wating For Cliens
+19:41:16.077 [Thread-3] INFO  Server - Wating For Cliens
+19:41:16.077 [Thread-4] INFO  Server - Wating For Cliens
+19:41:17.077 [Thread-4] INFO  Server - Wating For Cliens
+19:41:17.077 [Thread-3] INFO  Server - Wating For Cliens
+19:41:18.077 [Thread-3] INFO  Server - Wating For Cliens
+19:41:18.077 [Thread-4] INFO  Server - Wating For Cliens
+19:41:19.077 [Thread-3] INFO  Server - Wating For Cliens
+19:41:19.078 [Thread-4] INFO  Server - Wating For Cliens
+19:41:20.078 [Thread-3] INFO  Server - Wating For Cliens
+19:41:20.078 [Thread-4] INFO  Server - Wating For Cliens
+19:41:21.078 [Thread-3] INFO  Server - Wating For Cliens
+19:41:21.078 [Thread-4] INFO  Server - Wating For Cliens
+19:41:22.078 [Thread-3] INFO  Server - Wating For Cliens
+19:41:22.078 [Thread-4] INFO  Server - Wating For Cliens
+19:41:23.079 [Thread-3] INFO  Server - Wating For Cliens
+19:41:23.079 [Thread-4] INFO  Server - Wating For Cliens
+19:41:24.078 [Thread-3] INFO  Server - Wating For Cliens
+19:41:24.078 [Thread-4] INFO  Server - Wating For Cliens
+19:41:25.080 [Thread-4] INFO  Server - Wating For Cliens
+19:41:25.080 [Thread-3] INFO  Server - Wating For Cliens
+19:41:26.080 [Thread-3] INFO  Server - Wating For Cliens
+19:41:26.080 [Thread-4] INFO  Server - Wating For Cliens
+19:41:27.082 [Thread-4] INFO  Server - Wating For Cliens
+19:41:27.082 [Thread-3] INFO  Server - Wating For Cliens
+19:41:28.082 [Thread-4] INFO  Server - Wating For Cliens
+19:41:28.082 [Thread-3] INFO  Server - Wating For Cliens
+19:41:29.082 [Thread-3] INFO  Server - Wating For Cliens
+19:41:29.082 [Thread-4] INFO  Server - Wating For Cliens
+19:41:30.082 [Thread-3] INFO  Server - Wating For Cliens
+19:41:30.082 [Thread-4] INFO  Server - Wating For Cliens
+19:41:31.083 [Thread-4] INFO  Server - Wating For Cliens
+19:41:31.083 [Thread-3] INFO  Server - Wating For Cliens
+19:41:32.083 [Thread-4] INFO  Server - Wating For Cliens
+19:41:32.083 [Thread-3] INFO  Server - Wating For Cliens
+19:41:32.721 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5400
+19:41:32.737 [pool-3-thread-1] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/10.100.102.43,port=61174,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 15 Cols: 15
+19:41:33.082 [Thread-4] INFO  Server - Wating For Cliens
+19:41:33.722 [Thread-3] INFO  Server - Wating For Cliens
+19:41:34.083 [Thread-4] INFO  Server - Wating For Cliens
+19:41:34.722 [Thread-3] INFO  Server - Wating For Cliens
+19:41:35.084 [Thread-4] INFO  Server - Wating For Cliens
+19:41:35.722 [Thread-3] INFO  Server - Wating For Cliens
+19:41:36.083 [Thread-4] INFO  Server - Wating For Cliens
+19:41:36.723 [Thread-3] INFO  Server - Wating For Cliens
+19:41:37.084 [Thread-4] INFO  Server - Wating For Cliens
+19:41:37.723 [Thread-3] INFO  Server - Wating For Cliens
+19:41:37.975 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:37.997 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61189,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:38.723 [Thread-3] INFO  Server - Wating For Cliens
+19:41:38.976 [Thread-4] INFO  Server - Wating For Cliens
+19:41:38.994 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:39.003 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61192,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:39.156 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:39.164 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61193,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:39.295 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:39.303 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61195,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:39.472 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:39.479 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61196,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:39.609 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:39.616 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61197,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:39.724 [Thread-3] INFO  Server - Wating For Cliens
+19:41:39.778 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:39.785 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61199,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:39.983 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:39.990 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61201,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:40.431 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:40.439 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61203,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:40.615 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:40.625 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61204,localport=5401] Get Solution That Was Exist.
+19:41:40.724 [Thread-3] INFO  Server - Wating For Cliens
+19:41:41.616 [Thread-4] INFO  Server - Wating For Cliens
+19:41:41.682 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:41.686 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61209,localport=5401] Get Solution That Was Exist.
+19:41:41.724 [Thread-3] INFO  Server - Wating For Cliens
+19:41:42.683 [Thread-4] INFO  Server - Wating For Cliens
+19:41:42.726 [Thread-3] INFO  Server - Wating For Cliens
+19:41:43.246 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:43.249 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61213,localport=5401] Get Solution That Was Exist.
+19:41:43.694 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:43.698 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61215,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:43.725 [Thread-3] INFO  Server - Wating For Cliens
+19:41:44.196 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:44.202 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61218,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:44.701 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:44.710 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61219,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:44.726 [Thread-3] INFO  Server - Wating For Cliens
+19:41:45.008 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:45.017 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61222,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:45.726 [Thread-3] INFO  Server - Wating For Cliens
+19:41:45.986 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:45.992 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61225,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:46.143 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:46.150 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61227,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:46.498 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:46.504 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61228,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:46.727 [Thread-3] INFO  Server - Wating For Cliens
+19:41:46.906 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:46.913 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61231,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:47.076 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:47.082 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61232,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:47.396 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:47.402 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61234,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:47.719 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:47.725 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61235,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:47.727 [Thread-3] INFO  Server - Wating For Cliens
+19:41:47.917 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:47.922 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61238,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:48.163 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:48.170 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61239,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:48.727 [Thread-3] INFO  Server - Wating For Cliens
+19:41:48.739 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:48.747 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61241,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:48.890 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:48.896 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61243,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:49.241 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:49.248 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61245,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:49.686 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:49.692 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61246,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:49.726 [Thread-3] INFO  Server - Wating For Cliens
+19:41:49.962 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:49.969 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61249,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:50.089 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:50.095 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61250,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:50.268 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:50.273 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61251,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:50.431 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:50.437 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61253,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:41:50.645 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:41:50.653 [JavaFX Application Thread] ERROR ServerStrategySolveSearchProblem - Can't Create Solution
+19:41:50.727 [Thread-3] INFO  Server - Wating For Cliens
+19:41:51.645 [Thread-4] INFO  Server - Wating For Cliens
+19:41:51.727 [Thread-3] INFO  Server - Wating For Cliens
+19:41:52.646 [Thread-4] INFO  Server - Wating For Cliens
+19:41:52.729 [Thread-3] INFO  Server - Wating For Cliens
+19:41:53.646 [Thread-4] INFO  Server - Wating For Cliens
+19:41:53.728 [Thread-3] INFO  Server - Wating For Cliens
+19:41:54.646 [Thread-4] INFO  Server - Wating For Cliens
+19:41:54.730 [Thread-3] INFO  Server - Wating For Cliens
+19:41:55.646 [Thread-4] INFO  Server - Wating For Cliens
+19:41:55.730 [Thread-3] INFO  Server - Wating For Cliens
+19:41:56.647 [Thread-4] INFO  Server - Wating For Cliens
+19:41:56.730 [Thread-3] INFO  Server - Wating For Cliens
+19:41:57.648 [Thread-4] INFO  Server - Wating For Cliens
+19:41:57.730 [Thread-3] INFO  Server - Wating For Cliens
+19:41:58.648 [Thread-4] INFO  Server - Wating For Cliens
+19:41:58.731 [Thread-3] INFO  Server - Wating For Cliens
+19:41:59.648 [Thread-4] INFO  Server - Wating For Cliens
+19:41:59.731 [Thread-3] INFO  Server - Wating For Cliens
+19:42:00.648 [Thread-4] INFO  Server - Wating For Cliens
+19:42:00.731 [Thread-3] INFO  Server - Wating For Cliens
+19:42:01.649 [Thread-4] INFO  Server - Wating For Cliens
+19:42:01.732 [Thread-3] INFO  Server - Wating For Cliens
+19:42:02.649 [Thread-4] INFO  Server - Wating For Cliens
+19:42:02.732 [Thread-3] INFO  Server - Wating For Cliens
+19:42:03.649 [Thread-4] INFO  Server - Wating For Cliens
+19:42:03.732 [Thread-3] INFO  Server - Wating For Cliens
+19:42:04.650 [Thread-4] INFO  Server - Wating For Cliens
+19:42:04.733 [Thread-3] INFO  Server - Wating For Cliens
+19:42:05.650 [Thread-4] INFO  Server - Wating For Cliens
+19:42:05.733 [Thread-3] INFO  Server - Wating For Cliens
+19:42:06.650 [Thread-4] INFO  Server - Wating For Cliens
+19:42:06.733 [Thread-3] INFO  Server - Wating For Cliens
+19:42:07.650 [Thread-4] INFO  Server - Wating For Cliens
+19:42:07.733 [Thread-3] INFO  Server - Wating For Cliens
+19:42:08.651 [Thread-4] INFO  Server - Wating For Cliens
+19:42:08.733 [Thread-3] INFO  Server - Wating For Cliens
+19:42:09.651 [Thread-4] INFO  Server - Wating For Cliens
+19:42:09.734 [Thread-3] INFO  Server - Wating For Cliens
+19:42:10.651 [Thread-4] INFO  Server - Wating For Cliens
+19:42:10.735 [Thread-3] INFO  Server - Wating For Cliens
+19:42:11.651 [Thread-4] INFO  Server - Wating For Cliens
+19:42:11.735 [Thread-3] INFO  Server - Wating For Cliens
+19:42:12.651 [Thread-4] INFO  Server - Wating For Cliens
+19:42:12.736 [Thread-3] INFO  Server - Wating For Cliens
+19:42:13.653 [Thread-4] INFO  Server - Wating For Cliens
+19:42:13.736 [Thread-3] INFO  Server - Wating For Cliens
+19:42:14.654 [Thread-4] INFO  Server - Wating For Cliens
+19:42:14.736 [Thread-3] INFO  Server - Wating For Cliens
+19:42:15.654 [Thread-4] INFO  Server - Wating For Cliens
+19:42:15.737 [Thread-3] INFO  Server - Wating For Cliens
+19:42:16.653 [Thread-4] INFO  Server - Wating For Cliens
+19:42:16.737 [Thread-3] INFO  Server - Wating For Cliens
+19:42:17.654 [Thread-4] INFO  Server - Wating For Cliens
+19:42:17.737 [Thread-3] INFO  Server - Wating For Cliens
+19:42:17.899 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+19:42:17.904 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=61327,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+19:42:18.737 [Thread-3] INFO  Server - Wating For Cliens
+19:42:18.899 [Thread-4] INFO  Server - Wating For Cliens
+19:42:19.737 [Thread-3] INFO  Server - Wating For Cliens
+19:42:19.900 [Thread-4] INFO  Server - Wating For Cliens
+19:42:20.739 [Thread-3] INFO  Server - Wating For Cliens
+19:42:20.900 [Thread-4] INFO  Server - Wating For Cliens
+19:42:21.738 [Thread-3] INFO  Server - Wating For Cliens
+19:42:21.900 [Thread-4] INFO  Server - Wating For Cliens
+19:42:22.738 [Thread-3] INFO  Server - Wating For Cliens
+19:42:22.900 [Thread-4] INFO  Server - Wating For Cliens
+19:42:23.739 [Thread-3] INFO  Server - Wating For Cliens
+19:42:23.900 [Thread-4] INFO  Server - Wating For Cliens
+19:42:24.740 [Thread-3] INFO  Server - Wating For Cliens
+19:42:24.900 [Thread-4] INFO  Server - Wating For Cliens
+19:42:25.739 [Thread-3] INFO  Server - Wating For Cliens
+19:42:25.900 [Thread-4] INFO  Server - Wating For Cliens
+19:42:26.740 [Thread-3] INFO  Server - Wating For Cliens
+19:42:26.901 [Thread-4] INFO  Server - Wating For Cliens
+19:42:27.548 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5400
+19:42:27.549 [pool-3-thread-2] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/10.100.102.43,port=61352,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 15 Cols: 15
+19:42:27.901 [Thread-4] INFO  Server - Wating For Cliens
+19:42:28.549 [Thread-3] INFO  Server - Wating For Cliens
+19:42:28.902 [Thread-4] INFO  Server - Wating For Cliens
+19:42:29.549 [Thread-3] INFO  Server - Wating For Cliens
+19:42:29.902 [Thread-4] INFO  Server - Wating For Cliens
+19:42:30.144 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5400
+19:42:30.145 [pool-3-thread-3] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/10.100.102.43,port=61361,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 15 Cols: 15
+19:42:30.902 [Thread-4] INFO  Server - Wating For Cliens
+19:42:31.144 [Thread-3] INFO  Server - Wating For Cliens
+19:42:31.902 [Thread-4] INFO  Server - Wating For Cliens
+19:42:32.144 [Thread-3] INFO  Server - Wating For Cliens
+19:42:32.903 [Thread-4] INFO  Server - Wating For Cliens
+19:42:33.144 [Thread-3] INFO  Server - Wating For Cliens
+19:42:33.902 [Thread-4] INFO  Server - Wating For Cliens
+19:42:34.144 [Thread-3] INFO  Server - Wating For Cliens
+19:42:34.903 [Thread-4] INFO  Server - Wating For Cliens
+19:42:35.145 [Thread-3] INFO  Server - Wating For Cliens
+19:42:35.904 [Thread-4] INFO  Server - Wating For Cliens
+19:42:36.145 [Thread-3] INFO  Server - Wating For Cliens
+19:42:36.904 [Thread-4] INFO  Server - Wating For Cliens
+19:42:37.146 [Thread-3] INFO  Server - Wating For Cliens
+19:42:37.904 [Thread-4] INFO  Server - Wating For Cliens
+19:42:38.147 [Thread-3] INFO  Server - Wating For Cliens
+19:42:38.904 [Thread-4] INFO  Server - Wating For Cliens
+19:42:39.147 [Thread-3] INFO  Server - Wating For Cliens
+19:42:39.904 [Thread-4] INFO  Server - Wating For Cliens
+19:42:40.147 [Thread-3] INFO  Server - Wating For Cliens
+19:42:40.905 [Thread-4] INFO  Server - Wating For Cliens
+19:42:41.147 [Thread-3] INFO  Server - Wating For Cliens
+19:42:41.905 [Thread-4] INFO  Server - Wating For Cliens
+19:42:42.147 [Thread-3] INFO  Server - Wating For Cliens
+19:42:42.905 [Thread-4] INFO  Server - Wating For Cliens
+19:42:43.148 [Thread-3] INFO  Server - Wating For Cliens
+19:42:43.905 [Thread-4] INFO  Server - Wating For Cliens
+19:42:44.148 [Thread-3] INFO  Server - Wating For Cliens
+19:42:44.905 [Thread-4] INFO  Server - Wating For Cliens
+19:42:45.148 [Thread-3] INFO  Server - Wating For Cliens
+19:42:45.906 [Thread-4] INFO  Server - Wating For Cliens
+19:42:46.148 [Thread-3] INFO  Server - Wating For Cliens
+19:42:46.905 [Thread-4] INFO  Server - Wating For Cliens
+19:42:47.149 [Thread-3] INFO  Server - Wating For Cliens
+19:42:47.906 [Thread-4] INFO  Server - Wating For Cliens
+19:42:48.149 [Thread-3] INFO  Server - Wating For Cliens
+19:42:48.906 [Thread-4] INFO  Server - Wating For Cliens
+19:42:49.149 [Thread-3] INFO  Server - Wating For Cliens
+19:42:49.906 [Thread-4] INFO  Server - Wating For Cliens
+19:42:50.150 [Thread-3] INFO  Server - Wating For Cliens
+19:42:50.906 [Thread-4] INFO  Server - Wating For Cliens
+19:42:51.149 [Thread-3] INFO  Server - Wating For Cliens
+19:42:51.908 [Thread-4] INFO  Server - Wating For Cliens
+19:42:52.151 [Thread-3] INFO  Server - Wating For Cliens
+19:42:52.908 [Thread-4] INFO  Server - Wating For Cliens
+19:42:53.151 [Thread-3] INFO  Server - Wating For Cliens
+19:42:53.908 [Thread-4] INFO  Server - Wating For Cliens
+19:42:54.152 [Thread-3] INFO  Server - Wating For Cliens
+19:42:54.909 [Thread-4] INFO  Server - Wating For Cliens
+19:42:55.152 [Thread-3] INFO  Server - Wating For Cliens
+19:42:55.908 [Thread-4] INFO  Server - Wating For Cliens
+19:42:56.152 [Thread-3] INFO  Server - Wating For Cliens
+19:42:56.908 [Thread-4] INFO  Server - Wating For Cliens
+19:42:57.153 [Thread-3] INFO  Server - Wating For Cliens
+19:42:57.910 [Thread-4] INFO  Server - Wating For Cliens
+19:42:58.153 [Thread-3] INFO  Server - Wating For Cliens
+19:42:58.910 [Thread-4] INFO  Server - Wating For Cliens
+19:42:59.153 [Thread-3] INFO  Server - Wating For Cliens
+19:42:59.910 [Thread-4] INFO  Server - Wating For Cliens
+19:43:00.154 [Thread-3] INFO  Server - Wating For Cliens
+19:43:00.911 [Thread-4] INFO  Server - Wating For Cliens
+19:43:01.153 [Thread-3] INFO  Server - Wating For Cliens
+19:43:01.911 [Thread-4] INFO  Server - Wating For Cliens
+19:43:02.154 [Thread-3] INFO  Server - Wating For Cliens
+19:43:02.911 [Thread-4] INFO  Server - Wating For Cliens
+19:43:03.153 [Thread-3] INFO  Server - Wating For Cliens
+19:43:03.912 [Thread-4] INFO  Server - Wating For Cliens
+19:43:04.154 [Thread-3] INFO  Server - Wating For Cliens
+19:43:04.912 [Thread-4] INFO  Server - Wating For Cliens
+19:43:05.154 [Thread-3] INFO  Server - Wating For Cliens
+19:43:05.913 [Thread-4] INFO  Server - Wating For Cliens
+19:43:06.154 [Thread-3] INFO  Server - Wating For Cliens
+19:43:06.913 [Thread-4] INFO  Server - Wating For Cliens
+19:43:07.154 [Thread-3] INFO  Server - Wating For Cliens
+19:43:07.712 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5400
+19:43:07.713 [pool-3-thread-4] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/10.100.102.43,port=61461,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 2 Cols: 2
+19:43:07.913 [Thread-4] INFO  Server - Wating For Cliens
+19:43:08.713 [Thread-3] INFO  Server - Wating For Cliens
+19:43:08.913 [Thread-4] INFO  Server - Wating For Cliens
+19:43:09.713 [Thread-3] INFO  Server - Wating For Cliens
+19:43:09.913 [Thread-4] INFO  Server - Wating For Cliens
+19:43:10.713 [Thread-3] INFO  Server - Wating For Cliens
+19:43:10.913 [Thread-4] INFO  Server - Wating For Cliens
+19:43:11.713 [Thread-3] INFO  Server - Wating For Cliens
+19:43:11.913 [Thread-4] INFO  Server - Wating For Cliens
+19:43:12.714 [Thread-3] INFO  Server - Wating For Cliens
+19:43:12.914 [Thread-4] INFO  Server - Wating For Cliens
+19:43:13.714 [Thread-3] INFO  Server - Wating For Cliens
+19:43:13.913 [Thread-4] INFO  Server - Wating For Cliens
+19:43:14.714 [Thread-3] INFO  Server - Wating For Cliens
+19:43:14.914 [Thread-4] INFO  Server - Wating For Cliens
+19:43:15.714 [Thread-3] INFO  Server - Wating For Cliens
+19:43:15.914 [Thread-4] INFO  Server - Wating For Cliens
+19:43:16.714 [Thread-3] INFO  Server - Wating For Cliens
+19:43:16.915 [Thread-4] INFO  Server - Wating For Cliens
+19:43:17.714 [Thread-3] INFO  Server - Wating For Cliens
+19:43:17.915 [Thread-4] INFO  Server - Wating For Cliens
+19:43:18.714 [Thread-3] INFO  Server - Wating For Cliens
+19:43:18.916 [Thread-4] INFO  Server - Wating For Cliens
+19:43:19.714 [Thread-3] INFO  Server - Wating For Cliens
+19:43:19.915 [Thread-4] INFO  Server - Wating For Cliens
+19:43:20.714 [Thread-3] INFO  Server - Wating For Cliens
+19:43:20.916 [Thread-4] INFO  Server - Wating For Cliens
+19:43:21.715 [Thread-3] INFO  Server - Wating For Cliens
+19:43:21.916 [Thread-4] INFO  Server - Wating For Cliens
+19:43:22.715 [Thread-3] INFO  Server - Wating For Cliens
+19:43:22.917 [Thread-4] INFO  Server - Wating For Cliens
+19:43:23.715 [Thread-3] INFO  Server - Wating For Cliens
+19:43:23.918 [Thread-4] INFO  Server - Wating For Cliens
+19:43:24.715 [Thread-3] INFO  Server - Wating For Cliens
+19:43:24.918 [Thread-4] INFO  Server - Wating For Cliens
+19:43:25.716 [Thread-3] INFO  Server - Wating For Cliens
+19:43:25.919 [Thread-4] INFO  Server - Wating For Cliens
+19:43:26.716 [Thread-3] INFO  Server - Wating For Cliens
+19:43:26.918 [Thread-4] INFO  Server - Wating For Cliens
+19:43:27.716 [Thread-3] INFO  Server - Wating For Cliens
+19:43:27.919 [Thread-4] INFO  Server - Wating For Cliens
+19:43:28.717 [Thread-3] INFO  Server - Wating For Cliens
+19:43:28.918 [Thread-4] INFO  Server - Wating For Cliens
+19:43:29.716 [Thread-3] INFO  Server - Wating For Cliens
+19:43:29.919 [Thread-4] INFO  Server - Wating For Cliens
+19:43:30.717 [Thread-3] INFO  Server - Wating For Cliens
+19:43:30.919 [Thread-4] INFO  Server - Wating For Cliens
+19:43:31.717 [Thread-3] INFO  Server - Wating For Cliens
+19:43:31.919 [Thread-4] INFO  Server - Wating For Cliens
+19:43:32.717 [Thread-3] INFO  Server - Wating For Cliens
+19:43:32.920 [Thread-4] INFO  Server - Wating For Cliens
+19:43:33.717 [Thread-3] INFO  Server - Wating For Cliens
+19:43:33.920 [Thread-4] INFO  Server - Wating For Cliens
+19:43:34.718 [Thread-3] INFO  Server - Wating For Cliens
+19:43:34.920 [Thread-4] INFO  Server - Wating For Cliens
+19:43:35.717 [Thread-3] INFO  Server - Wating For Cliens
+19:43:35.920 [Thread-4] INFO  Server - Wating For Cliens
+19:43:36.718 [Thread-3] INFO  Server - Wating For Cliens
+19:43:36.920 [Thread-4] INFO  Server - Wating For Cliens
+19:43:37.719 [Thread-3] INFO  Server - Wating For Cliens
+19:43:37.920 [Thread-4] INFO  Server - Wating For Cliens
+19:43:38.719 [Thread-3] INFO  Server - Wating For Cliens
+19:43:38.920 [Thread-4] INFO  Server - Wating For Cliens
+19:43:39.719 [Thread-3] INFO  Server - Wating For Cliens
+19:43:39.920 [Thread-4] INFO  Server - Wating For Cliens
+19:43:40.719 [Thread-3] INFO  Server - Wating For Cliens
+19:43:40.921 [Thread-4] INFO  Server - Wating For Cliens
+19:43:41.720 [Thread-3] INFO  Server - Wating For Cliens
+19:43:41.921 [Thread-4] INFO  Server - Wating For Cliens
+19:43:42.720 [Thread-3] INFO  Server - Wating For Cliens
+19:43:42.922 [Thread-4] INFO  Server - Wating For Cliens
+19:43:43.720 [Thread-3] INFO  Server - Wating For Cliens
+19:43:43.923 [Thread-4] INFO  Server - Wating For Cliens
+19:43:44.720 [Thread-3] INFO  Server - Wating For Cliens
+19:43:44.923 [Thread-4] INFO  Server - Wating For Cliens
+19:43:45.721 [Thread-3] INFO  Server - Wating For Cliens
+19:43:45.923 [Thread-4] INFO  Server - Wating For Cliens
+19:43:46.721 [Thread-3] INFO  Server - Wating For Cliens
+19:43:46.923 [Thread-4] INFO  Server - Wating For Cliens
+19:43:47.722 [Thread-3] INFO  Server - Wating For Cliens
+19:43:47.924 [Thread-4] INFO  Server - Wating For Cliens
+19:43:48.721 [Thread-3] INFO  Server - Wating For Cliens
+19:43:48.924 [Thread-4] INFO  Server - Wating For Cliens
+19:43:49.722 [Thread-3] INFO  Server - Wating For Cliens
+19:43:49.923 [Thread-4] INFO  Server - Wating For Cliens
+19:43:50.722 [Thread-3] INFO  Server - Wating For Cliens
+19:43:50.923 [Thread-4] INFO  Server - Wating For Cliens
+19:43:51.722 [Thread-3] INFO  Server - Wating For Cliens
+19:43:51.925 [Thread-4] INFO  Server - Wating For Cliens
+19:43:52.722 [Thread-3] INFO  Server - Wating For Cliens
+19:43:52.925 [Thread-4] INFO  Server - Wating For Cliens
+19:43:53.722 [Thread-3] INFO  Server - Wating For Cliens
+19:43:53.732 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5400
+19:43:53.732 [pool-3-thread-1] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/10.100.102.43,port=61585,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 15 Cols: 15
+19:43:53.925 [Thread-4] INFO  Server - Wating For Cliens
+19:43:54.732 [Thread-3] INFO  Server - Wating For Cliens
+19:43:54.926 [Thread-4] INFO  Server - Wating For Cliens
+19:43:55.732 [Thread-3] INFO  Server - Wating For Cliens
+19:43:55.925 [Thread-4] INFO  Server - Wating For Cliens
+19:43:56.733 [Thread-3] INFO  Server - Wating For Cliens
+19:43:56.926 [Thread-4] INFO  Server - Wating For Cliens
+19:43:57.733 [Thread-3] INFO  Server - Wating For Cliens
+19:43:57.926 [Thread-4] INFO  Server - Wating For Cliens
+19:43:58.732 [Thread-3] INFO  Server - Wating For Cliens
+19:43:58.926 [Thread-4] INFO  Server - Wating For Cliens
+19:43:59.733 [Thread-3] INFO  Server - Wating For Cliens
+19:43:59.926 [Thread-4] INFO  Server - Wating For Cliens
+19:44:00.733 [Thread-3] INFO  Server - Wating For Cliens
+19:44:00.926 [Thread-4] INFO  Server - Wating For Cliens
+19:44:01.734 [Thread-3] INFO  Server - Wating For Cliens
+19:44:01.927 [Thread-4] INFO  Server - Wating For Cliens
+19:44:02.735 [Thread-3] INFO  Server - Wating For Cliens
+19:44:02.927 [Thread-4] INFO  Server - Wating For Cliens
+19:44:03.735 [Thread-3] INFO  Server - Wating For Cliens
+19:44:03.927 [Thread-4] INFO  Server - Wating For Cliens
+19:44:04.735 [Thread-3] INFO  Server - Wating For Cliens
+19:44:04.927 [Thread-4] INFO  Server - Wating For Cliens
+19:44:05.734 [Thread-3] INFO  Server - Wating For Cliens
+19:44:05.928 [Thread-4] INFO  Server - Wating For Cliens
+19:44:06.735 [Thread-3] INFO  Server - Wating For Cliens
+19:44:06.927 [Thread-4] INFO  Server - Wating For Cliens
+19:44:07.736 [Thread-3] INFO  Server - Wating For Cliens
+19:44:07.928 [Thread-4] INFO  Server - Wating For Cliens
+19:44:08.735 [Thread-3] INFO  Server - Wating For Cliens
+19:44:08.928 [Thread-4] INFO  Server - Wating For Cliens
+19:44:09.736 [Thread-3] INFO  Server - Wating For Cliens
+19:44:09.928 [Thread-4] INFO  Server - Wating For Cliens
+19:44:10.736 [Thread-3] INFO  Server - Wating For Cliens
+19:44:10.929 [Thread-4] INFO  Server - Wating For Cliens
+19:44:11.736 [Thread-3] INFO  Server - Wating For Cliens
+19:44:11.929 [Thread-4] INFO  Server - Wating For Cliens
+19:44:12.736 [Thread-3] INFO  Server - Wating For Cliens
+19:44:12.929 [Thread-4] INFO  Server - Wating For Cliens
+19:44:13.736 [Thread-3] INFO  Server - Wating For Cliens
+19:44:13.930 [Thread-4] INFO  Server - Wating For Cliens
+19:44:14.736 [Thread-3] INFO  Server - Wating For Cliens
+19:44:14.929 [Thread-4] INFO  Server - Wating For Cliens
+19:44:15.736 [Thread-3] INFO  Server - Wating For Cliens
+19:44:15.930 [Thread-4] INFO  Server - Wating For Cliens
+19:44:16.736 [Thread-3] INFO  Server - Wating For Cliens
+19:44:16.930 [Thread-4] INFO  Server - Wating For Cliens
+19:44:17.737 [Thread-3] INFO  Server - Wating For Cliens
+19:44:17.929 [Thread-4] INFO  Server - Wating For Cliens
+19:44:18.737 [Thread-3] INFO  Server - Wating For Cliens
+19:44:18.930 [Thread-4] INFO  Server - Wating For Cliens
+19:44:19.737 [Thread-3] INFO  Server - Wating For Cliens
+19:44:19.930 [Thread-4] INFO  Server - Wating For Cliens
+19:44:20.736 [Thread-3] INFO  Server - Wating For Cliens
+19:44:20.930 [Thread-4] INFO  Server - Wating For Cliens
+19:44:21.738 [Thread-3] INFO  Server - Wating For Cliens
+19:44:21.930 [Thread-4] INFO  Server - Wating For Cliens
+19:44:22.739 [Thread-3] INFO  Server - Wating For Cliens
+19:44:22.931 [Thread-4] INFO  Server - Wating For Cliens
+19:44:23.738 [Thread-3] INFO  Server - Wating For Cliens
+19:44:23.931 [Thread-4] INFO  Server - Wating For Cliens
+19:44:24.739 [Thread-3] INFO  Server - Wating For Cliens
+19:44:24.932 [Thread-4] INFO  Server - Wating For Cliens
+19:44:25.739 [Thread-3] INFO  Server - Wating For Cliens
+19:44:25.932 [Thread-4] INFO  Server - Wating For Cliens
+19:44:26.739 [Thread-3] INFO  Server - Wating For Cliens
+19:44:26.932 [Thread-4] INFO  Server - Wating For Cliens
+19:44:27.739 [Thread-3] INFO  Server - Wating For Cliens
+19:44:27.933 [Thread-4] INFO  Server - Wating For Cliens
+19:44:28.740 [Thread-3] INFO  Server - Wating For Cliens
+19:44:28.933 [Thread-4] INFO  Server - Wating For Cliens
+19:44:29.739 [Thread-3] INFO  Server - Wating For Cliens
+19:44:29.933 [Thread-4] INFO  Server - Wating For Cliens
+19:44:30.740 [Thread-3] INFO  Server - Wating For Cliens
+19:44:30.933 [Thread-4] INFO  Server - Wating For Cliens
+19:44:31.740 [Thread-3] INFO  Server - Wating For Cliens
+19:44:31.934 [Thread-4] INFO  Server - Wating For Cliens
+19:44:32.741 [Thread-3] INFO  Server - Wating For Cliens
+19:44:32.934 [Thread-4] INFO  Server - Wating For Cliens
+19:44:33.741 [Thread-3] INFO  Server - Wating For Cliens
+19:44:33.934 [Thread-4] INFO  Server - Wating For Cliens
+19:44:34.741 [Thread-3] INFO  Server - Wating For Cliens
+19:44:34.934 [Thread-4] INFO  Server - Wating For Cliens
+19:44:35.740 [Thread-3] INFO  Server - Wating For Cliens
+19:44:35.935 [Thread-4] INFO  Server - Wating For Cliens
+19:44:36.740 [Thread-3] INFO  Server - Wating For Cliens
+19:44:36.935 [Thread-4] INFO  Server - Wating For Cliens
+19:44:37.741 [Thread-3] INFO  Server - Wating For Cliens
+19:44:37.935 [Thread-4] INFO  Server - Wating For Cliens
+19:44:38.741 [Thread-3] INFO  Server - Wating For Cliens
+19:44:38.935 [Thread-4] INFO  Server - Wating For Cliens
+19:44:39.741 [Thread-3] INFO  Server - Wating For Cliens
+19:44:39.935 [Thread-4] INFO  Server - Wating For Cliens
+19:44:40.742 [Thread-3] INFO  Server - Wating For Cliens
+19:44:40.935 [Thread-4] INFO  Server - Wating For Cliens
+19:44:41.742 [Thread-3] INFO  Server - Wating For Cliens
+19:44:41.935 [Thread-4] INFO  Server - Wating For Cliens
+19:44:42.742 [Thread-3] INFO  Server - Wating For Cliens
+19:44:42.935 [Thread-4] INFO  Server - Wating For Cliens
+19:44:43.742 [Thread-3] INFO  Server - Wating For Cliens
+19:44:43.937 [Thread-4] INFO  Server - Wating For Cliens
+19:44:44.742 [Thread-3] INFO  Server - Wating For Cliens
+19:44:44.937 [Thread-4] INFO  Server - Wating For Cliens
+19:44:45.744 [Thread-3] INFO  Server - Wating For Cliens
+19:44:45.937 [Thread-4] INFO  Server - Wating For Cliens
+19:44:46.743 [Thread-3] INFO  Server - Wating For Cliens
+19:44:46.937 [Thread-4] INFO  Server - Wating For Cliens
+19:44:47.744 [Thread-3] INFO  Server - Wating For Cliens
+10:30:07.973 [Thread-3] INFO  Server - Wating For Cliens
+10:30:07.973 [Thread-4] INFO  Server - Wating For Cliens
+10:30:08.974 [Thread-4] INFO  Server - Wating For Cliens
+10:30:08.974 [Thread-3] INFO  Server - Wating For Cliens
+10:30:09.974 [Thread-4] INFO  Server - Wating For Cliens
+10:30:09.975 [Thread-3] INFO  Server - Wating For Cliens
+10:30:10.975 [Thread-3] INFO  Server - Wating For Cliens
+10:30:10.975 [Thread-4] INFO  Server - Wating For Cliens
+10:30:11.975 [Thread-3] INFO  Server - Wating For Cliens
+10:30:11.975 [Thread-4] INFO  Server - Wating For Cliens
+10:30:12.975 [Thread-3] INFO  Server - Wating For Cliens
+10:30:12.975 [Thread-4] INFO  Server - Wating For Cliens
+10:30:13.976 [Thread-4] INFO  Server - Wating For Cliens
+10:30:13.976 [Thread-3] INFO  Server - Wating For Cliens
+10:30:14.976 [Thread-4] INFO  Server - Wating For Cliens
+10:30:14.977 [Thread-3] INFO  Server - Wating For Cliens
+10:30:15.976 [Thread-4] INFO  Server - Wating For Cliens
+10:30:15.976 [Thread-3] INFO  Server - Wating For Cliens
+10:30:16.976 [Thread-3] INFO  Server - Wating For Cliens
+10:30:16.976 [Thread-4] INFO  Server - Wating For Cliens
+10:30:17.976 [Thread-3] INFO  Server - Wating For Cliens
+10:30:17.976 [Thread-4] INFO  Server - Wating For Cliens
+10:30:18.976 [Thread-3] INFO  Server - Wating For Cliens
+10:30:18.976 [Thread-4] INFO  Server - Wating For Cliens
+10:30:19.976 [Thread-4] INFO  Server - Wating For Cliens
+10:30:19.976 [Thread-3] INFO  Server - Wating For Cliens
+10:30:20.506 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5400
+10:30:20.520 [pool-3-thread-1] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/10.100.102.43,port=65167,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 17 Cols: 17
+10:30:20.977 [Thread-4] INFO  Server - Wating For Cliens
+10:30:21.510 [Thread-3] INFO  Server - Wating For Cliens
+10:30:21.978 [Thread-4] INFO  Server - Wating For Cliens
+10:30:22.509 [Thread-3] INFO  Server - Wating For Cliens
+10:30:22.977 [Thread-4] INFO  Server - Wating For Cliens
+10:30:23.510 [Thread-3] INFO  Server - Wating For Cliens
+10:30:23.978 [Thread-4] INFO  Server - Wating For Cliens
+10:30:24.510 [Thread-3] INFO  Server - Wating For Cliens
+10:30:24.978 [Thread-4] INFO  Server - Wating For Cliens
+10:30:25.511 [Thread-3] INFO  Server - Wating For Cliens
+10:30:25.978 [Thread-4] INFO  Server - Wating For Cliens
+10:30:26.512 [Thread-3] INFO  Server - Wating For Cliens
+10:30:26.979 [Thread-4] INFO  Server - Wating For Cliens
+10:30:27.512 [Thread-3] INFO  Server - Wating For Cliens
+10:30:27.979 [Thread-4] INFO  Server - Wating For Cliens
+10:30:28.513 [Thread-3] INFO  Server - Wating For Cliens
+10:30:28.979 [Thread-4] INFO  Server - Wating For Cliens
+10:30:29.512 [Thread-3] INFO  Server - Wating For Cliens
+10:30:29.980 [Thread-4] INFO  Server - Wating For Cliens
+10:30:30.514 [Thread-3] INFO  Server - Wating For Cliens
+10:30:30.981 [Thread-4] INFO  Server - Wating For Cliens
+10:30:31.514 [Thread-3] INFO  Server - Wating For Cliens
+10:30:31.799 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:31.820 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65168,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 17 Cols: 17
+10:30:32.513 [Thread-3] INFO  Server - Wating For Cliens
+10:30:32.800 [Thread-4] INFO  Server - Wating For Cliens
+10:30:33.384 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:33.393 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65169,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 17 Cols: 17
+10:30:33.515 [Thread-3] INFO  Server - Wating For Cliens
+10:30:33.873 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:33.880 [JavaFX Application Thread] ERROR ServerStrategySolveSearchProblem - Can't Create Solution
+10:30:34.514 [Thread-3] INFO  Server - Wating For Cliens
+10:30:34.874 [Thread-4] INFO  Server - Wating For Cliens
+10:30:35.516 [Thread-3] INFO  Server - Wating For Cliens
+10:30:35.874 [Thread-4] INFO  Server - Wating For Cliens
+10:30:36.516 [Thread-3] INFO  Server - Wating For Cliens
+10:30:36.873 [Thread-4] INFO  Server - Wating For Cliens
+10:30:37.516 [Thread-3] INFO  Server - Wating For Cliens
+10:30:37.874 [Thread-4] INFO  Server - Wating For Cliens
+10:30:38.516 [Thread-3] INFO  Server - Wating For Cliens
+10:30:38.875 [Thread-4] INFO  Server - Wating For Cliens
+10:30:39.517 [Thread-3] INFO  Server - Wating For Cliens
+10:30:39.875 [Thread-4] INFO  Server - Wating For Cliens
+10:30:40.517 [Thread-3] INFO  Server - Wating For Cliens
+10:30:40.876 [Thread-4] INFO  Server - Wating For Cliens
+10:30:41.517 [Thread-3] INFO  Server - Wating For Cliens
+10:30:41.875 [Thread-4] INFO  Server - Wating For Cliens
+10:30:42.102 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5400
+10:30:42.104 [pool-3-thread-2] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/10.100.102.43,port=65171,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 15 Cols: 15
+10:30:42.876 [Thread-4] INFO  Server - Wating For Cliens
+10:30:43.104 [Thread-3] INFO  Server - Wating For Cliens
+10:30:43.245 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:43.250 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65172,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:44.103 [Thread-3] INFO  Server - Wating For Cliens
+10:30:44.245 [Thread-4] INFO  Server - Wating For Cliens
+10:30:44.852 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:44.859 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65173,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:45.103 [Thread-3] INFO  Server - Wating For Cliens
+10:30:45.180 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:45.187 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65174,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:45.400 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:45.406 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65175,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:45.689 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:45.697 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65176,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:45.943 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:45.951 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65177,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:46.104 [Thread-3] INFO  Server - Wating For Cliens
+10:30:46.397 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:46.404 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65178,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:46.668 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:46.675 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65179,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:47.043 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:47.049 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65180,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:47.104 [Thread-3] INFO  Server - Wating For Cliens
+10:30:47.325 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:47.332 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65181,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:47.616 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:47.622 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65182,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:47.806 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:47.813 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65183,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:47.976 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:47.982 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65184,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:48.104 [Thread-3] INFO  Server - Wating For Cliens
+10:30:48.239 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:48.245 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65185,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:48.775 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:48.782 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65186,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:49.013 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:49.018 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65187,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:49.104 [Thread-3] INFO  Server - Wating For Cliens
+10:30:49.187 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:49.192 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65188,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:49.434 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:49.440 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65189,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:49.859 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:49.865 [pool-4-thread-2] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65190,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:50.105 [Thread-3] INFO  Server - Wating For Cliens
+10:30:50.124 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:50.130 [pool-4-thread-3] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65191,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:50.553 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:50.559 [pool-4-thread-4] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.43,port=65192,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 15 Cols: 15
+10:30:50.899 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5401
+10:30:50.904 [JavaFX Application Thread] ERROR ServerStrategySolveSearchProblem - Can't Create Solution
+10:30:51.105 [Thread-3] INFO  Server - Wating For Cliens
+10:30:51.899 [Thread-4] INFO  Server - Wating For Cliens
+10:30:52.105 [Thread-3] INFO  Server - Wating For Cliens
+10:30:52.899 [Thread-4] INFO  Server - Wating For Cliens
+10:30:53.106 [Thread-3] INFO  Server - Wating For Cliens
+11:00:59.105 [Thread-3] INFO  Server - Wating For Cliens
+11:00:59.105 [Thread-4] INFO  Server - Wating For Cliens
+11:01:00.107 [Thread-3] INFO  Server - Wating For Cliens
+11:01:00.107 [Thread-4] INFO  Server - Wating For Cliens
+11:01:01.107 [Thread-3] INFO  Server - Wating For Cliens
+11:01:01.107 [Thread-4] INFO  Server - Wating For Cliens
+11:01:02.107 [Thread-3] INFO  Server - Wating For Cliens
+11:01:02.107 [Thread-4] INFO  Server - Wating For Cliens
+11:01:03.107 [Thread-3] INFO  Server - Wating For Cliens
+11:01:03.107 [Thread-4] INFO  Server - Wating For Cliens
+11:01:04.107 [Thread-3] INFO  Server - Wating For Cliens
+11:01:04.107 [Thread-4] INFO  Server - Wating For Cliens
+11:01:05.107 [Thread-4] INFO  Server - Wating For Cliens
+11:01:05.107 [Thread-3] INFO  Server - Wating For Cliens
+11:01:06.108 [Thread-4] INFO  Server - Wating For Cliens
+11:01:06.108 [Thread-3] INFO  Server - Wating For Cliens
+11:01:07.108 [Thread-3] INFO  Server - Wating For Cliens
+11:01:07.109 [Thread-4] INFO  Server - Wating For Cliens
+11:01:08.109 [Thread-3] INFO  Server - Wating For Cliens
+11:01:08.109 [Thread-4] INFO  Server - Wating For Cliens
+11:01:09.110 [Thread-4] INFO  Server - Wating For Cliens
+11:01:09.110 [Thread-3] INFO  Server - Wating For Cliens
+11:01:10.109 [Thread-4] INFO  Server - Wating For Cliens
+11:01:10.109 [Thread-3] INFO  Server - Wating For Cliens
+11:01:11.110 [Thread-4] INFO  Server - Wating For Cliens
+11:01:11.110 [Thread-3] INFO  Server - Wating For Cliens
+11:01:12.111 [Thread-4] INFO  Server - Wating For Cliens
+11:01:12.112 [Thread-3] INFO  Server - Wating For Cliens
+11:01:13.111 [Thread-4] INFO  Server - Wating For Cliens
+11:01:13.112 [Thread-3] INFO  Server - Wating For Cliens
+11:01:13.275 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/10.100.102.43Port: 5400
+11:01:13.287 [pool-3-thread-1] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/10.100.102.43,port=64700,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 23 Cols: 23
+11:01:14.111 [Thread-4] INFO  Server - Wating For Cliens
+11:01:14.275 [Thread-3] INFO  Server - Wating For Cliens
+19:30:09.581 [Thread-3] INFO  Server - Wating For Cliens
+19:30:09.581 [Thread-4] INFO  Server - Wating For Cliens
+19:30:10.583 [Thread-3] INFO  Server - Wating For Cliens
+19:30:10.583 [Thread-4] INFO  Server - Wating For Cliens
+19:30:11.583 [Thread-3] INFO  Server - Wating For Cliens
+19:30:11.584 [Thread-4] INFO  Server - Wating For Cliens
+19:30:12.584 [Thread-3] INFO  Server - Wating For Cliens
+19:30:12.584 [Thread-4] INFO  Server - Wating For Cliens
+19:30:13.583 [Thread-3] INFO  Server - Wating For Cliens
+19:30:13.583 [Thread-4] INFO  Server - Wating For Cliens
+19:30:14.584 [Thread-4] INFO  Server - Wating For Cliens
+19:30:14.584 [Thread-3] INFO  Server - Wating For Cliens
+19:30:15.585 [Thread-4] INFO  Server - Wating For Cliens
+19:30:15.586 [Thread-3] INFO  Server - Wating For Cliens
+19:30:16.586 [Thread-3] INFO  Server - Wating For Cliens
+19:30:16.586 [Thread-4] INFO  Server - Wating For Cliens
+19:30:17.586 [Thread-3] INFO  Server - Wating For Cliens
+19:30:17.586 [Thread-4] INFO  Server - Wating For Cliens
+19:30:18.588 [Thread-4] INFO  Server - Wating For Cliens
+19:30:18.588 [Thread-3] INFO  Server - Wating For Cliens
+19:32:06.866 [Thread-3] INFO  Server - Wating For Cliens
+19:32:06.866 [Thread-4] INFO  Server - Wating For Cliens
+19:32:07.869 [Thread-4] INFO  Server - Wating For Cliens
+19:32:07.869 [Thread-3] INFO  Server - Wating For Cliens
+19:32:08.869 [Thread-4] INFO  Server - Wating For Cliens
+19:32:08.869 [Thread-3] INFO  Server - Wating For Cliens
+19:32:09.869 [Thread-4] INFO  Server - Wating For Cliens
+19:32:09.869 [Thread-3] INFO  Server - Wating For Cliens
+19:32:10.603 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/192.168.1.30Port: 5400
+19:32:10.617 [pool-4-thread-1] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/192.168.1.30,port=63350,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 17 Cols: 17
+19:32:10.870 [Thread-4] INFO  Server - Wating For Cliens
+19:32:11.603 [Thread-3] INFO  Server - Wating For Cliens
+19:32:11.869 [Thread-4] INFO  Server - Wating For Cliens
+19:32:12.603 [Thread-3] INFO  Server - Wating For Cliens
+19:32:12.870 [Thread-4] INFO  Server - Wating For Cliens
+19:32:13.604 [Thread-3] INFO  Server - Wating For Cliens
+19:32:13.870 [Thread-4] INFO  Server - Wating For Cliens
+19:32:14.604 [Thread-3] INFO  Server - Wating For Cliens
+19:32:14.870 [Thread-4] INFO  Server - Wating For Cliens
+19:32:15.513 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/192.168.1.30Port: 5400
+19:32:15.514 [pool-4-thread-2] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/192.168.1.30,port=63351,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 18 Cols: 18
+19:32:15.871 [Thread-4] INFO  Server - Wating For Cliens
+19:32:16.514 [Thread-3] INFO  Server - Wating For Cliens
+19:32:16.871 [Thread-4] INFO  Server - Wating For Cliens
+19:32:17.514 [Thread-3] INFO  Server - Wating For Cliens
+19:32:17.872 [Thread-4] INFO  Server - Wating For Cliens
+19:32:18.514 [Thread-3] INFO  Server - Wating For Cliens
+19:32:18.871 [Thread-4] INFO  Server - Wating For Cliens
+19:32:19.515 [Thread-3] INFO  Server - Wating For Cliens
+19:32:19.872 [Thread-4] INFO  Server - Wating For Cliens
+19:32:20.515 [Thread-3] INFO  Server - Wating For Cliens
+19:32:20.872 [Thread-4] INFO  Server - Wating For Cliens
+19:32:21.379 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: ItamarPC/192.168.1.30Port: 5400
+19:32:21.380 [pool-4-thread-3] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/192.168.1.30,port=63353,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 5 Cols: 5
+19:32:21.872 [Thread-4] INFO  Server - Wating For Cliens
+19:32:22.379 [Thread-3] INFO  Server - Wating For Cliens
+19:32:22.874 [Thread-4] INFO  Server - Wating For Cliens
+19:32:23.379 [Thread-3] INFO  Server - Wating For Cliens
+19:32:23.874 [Thread-4] INFO  Server - Wating For Cliens
+19:32:24.380 [Thread-3] INFO  Server - Wating For Cliens
+19:32:24.874 [Thread-4] INFO  Server - Wating For Cliens
+19:32:25.379 [Thread-3] INFO  Server - Wating For Cliens
+19:32:25.874 [Thread-4] INFO  Server - Wating For Cliens
+19:32:26.380 [Thread-3] INFO  Server - Wating For Cliens
+19:32:26.875 [Thread-4] INFO  Server - Wating For Cliens
+19:32:27.380 [Thread-3] INFO  Server - Wating For Cliens
+16:46:42.756 [Thread-4] INFO  Server - Wating For Cliens
+16:46:42.756 [Thread-3] INFO  Server - Wating For Cliens
+16:46:43.758 [Thread-3] INFO  Server - Wating For Cliens
+16:46:43.758 [Thread-4] INFO  Server - Wating For Cliens
+16:46:44.759 [Thread-3] INFO  Server - Wating For Cliens
+16:46:44.759 [Thread-4] INFO  Server - Wating For Cliens
+16:46:45.760 [Thread-3] INFO  Server - Wating For Cliens
+16:46:45.760 [Thread-4] INFO  Server - Wating For Cliens
+16:46:46.760 [Thread-4] INFO  Server - Wating For Cliens
+16:46:46.760 [Thread-3] INFO  Server - Wating For Cliens
+16:46:47.759 [Thread-4] INFO  Server - Wating For Cliens
+16:46:47.759 [Thread-3] INFO  Server - Wating For Cliens
+16:46:48.760 [Thread-3] INFO  Server - Wating For Cliens
+16:46:48.760 [Thread-4] INFO  Server - Wating For Cliens
+16:46:49.761 [Thread-3] INFO  Server - Wating For Cliens
+16:46:49.761 [Thread-4] INFO  Server - Wating For Cliens
+16:46:50.761 [Thread-3] INFO  Server - Wating For Cliens
+16:46:50.761 [Thread-4] INFO  Server - Wating For Cliens
+16:46:51.761 [Thread-3] INFO  Server - Wating For Cliens
+16:46:51.761 [Thread-4] INFO  Server - Wating For Cliens
+16:46:52.762 [Thread-3] INFO  Server - Wating For Cliens
+16:46:52.762 [Thread-4] INFO  Server - Wating For Cliens
+16:46:53.762 [Thread-3] INFO  Server - Wating For Cliens
+16:46:53.762 [Thread-4] INFO  Server - Wating For Cliens
+16:46:54.762 [Thread-3] INFO  Server - Wating For Cliens
+16:46:54.762 [Thread-4] INFO  Server - Wating For Cliens
+16:46:55.764 [Thread-3] INFO  Server - Wating For Cliens
+16:46:55.764 [Thread-4] INFO  Server - Wating For Cliens
+16:46:56.763 [Thread-4] INFO  Server - Wating For Cliens
+16:46:56.763 [Thread-3] INFO  Server - Wating For Cliens
+16:46:57.764 [Thread-3] INFO  Server - Wating For Cliens
+16:46:57.764 [Thread-4] INFO  Server - Wating For Cliens
+16:46:58.764 [Thread-3] INFO  Server - Wating For Cliens
+16:46:58.764 [Thread-4] INFO  Server - Wating For Cliens
+16:46:59.765 [Thread-4] INFO  Server - Wating For Cliens
+16:46:59.765 [Thread-3] INFO  Server - Wating For Cliens
+16:47:00.766 [Thread-4] INFO  Server - Wating For Cliens
+16:47:00.766 [Thread-3] INFO  Server - Wating For Cliens
+16:47:01.766 [Thread-3] INFO  Server - Wating For Cliens
+16:47:01.766 [Thread-4] INFO  Server - Wating For Cliens
+16:47:02.767 [Thread-3] INFO  Server - Wating For Cliens
+16:47:02.767 [Thread-4] INFO  Server - Wating For Cliens
+16:47:03.788 [Thread-4] INFO  Server - Wating For Cliens
+16:47:03.790 [Thread-3] INFO  Server - Wating For Cliens
+16:47:04.788 [Thread-4] INFO  Server - Wating For Cliens
+16:47:04.791 [Thread-3] INFO  Server - Wating For Cliens
+16:47:05.788 [Thread-4] INFO  Server - Wating For Cliens
+16:47:05.792 [Thread-3] INFO  Server - Wating For Cliens
+16:47:06.789 [Thread-4] INFO  Server - Wating For Cliens
+16:47:06.791 [Thread-3] INFO  Server - Wating For Cliens
+16:47:07.789 [Thread-4] INFO  Server - Wating For Cliens
+16:47:07.791 [Thread-3] INFO  Server - Wating For Cliens
+16:47:08.790 [Thread-4] INFO  Server - Wating For Cliens
+16:47:08.793 [Thread-3] INFO  Server - Wating For Cliens
+16:47:09.790 [Thread-4] INFO  Server - Wating For Cliens
+16:47:09.793 [Thread-3] INFO  Server - Wating For Cliens
+16:47:10.790 [Thread-4] INFO  Server - Wating For Cliens
+16:47:10.792 [Thread-3] INFO  Server - Wating For Cliens
+16:47:11.792 [Thread-4] INFO  Server - Wating For Cliens
+16:47:11.793 [Thread-3] INFO  Server - Wating For Cliens
+16:47:12.792 [Thread-4] INFO  Server - Wating For Cliens
+16:47:12.793 [Thread-3] INFO  Server - Wating For Cliens
+16:47:13.792 [Thread-4] INFO  Server - Wating For Cliens
+16:47:13.794 [Thread-3] INFO  Server - Wating For Cliens
+16:47:14.793 [Thread-4] INFO  Server - Wating For Cliens
+16:47:14.794 [Thread-3] INFO  Server - Wating For Cliens
+16:47:15.793 [Thread-4] INFO  Server - Wating For Cliens
+16:47:15.795 [Thread-3] INFO  Server - Wating For Cliens
+16:47:16.795 [Thread-4] INFO  Server - Wating For Cliens
+16:47:16.795 [Thread-3] INFO  Server - Wating For Cliens
+16:47:17.795 [Thread-4] INFO  Server - Wating For Cliens
+16:47:17.795 [Thread-3] INFO  Server - Wating For Cliens
+16:47:18.795 [Thread-3] INFO  Server - Wating For Cliens
+16:47:18.796 [Thread-4] INFO  Server - Wating For Cliens
+16:47:19.796 [Thread-3] INFO  Server - Wating For Cliens
+16:47:19.796 [Thread-4] INFO  Server - Wating For Cliens
+16:47:20.796 [Thread-3] INFO  Server - Wating For Cliens
+16:47:20.796 [Thread-4] INFO  Server - Wating For Cliens
+16:47:21.797 [Thread-3] INFO  Server - Wating For Cliens
+16:47:21.797 [Thread-4] INFO  Server - Wating For Cliens
+16:47:22.798 [Thread-4] INFO  Server - Wating For Cliens
+16:47:22.798 [Thread-3] INFO  Server - Wating For Cliens
+16:47:23.798 [Thread-4] INFO  Server - Wating For Cliens
+16:47:23.799 [Thread-3] INFO  Server - Wating For Cliens
+16:47:24.798 [Thread-4] INFO  Server - Wating For Cliens
+16:47:24.799 [Thread-3] INFO  Server - Wating For Cliens
+16:47:25.799 [Thread-4] INFO  Server - Wating For Cliens
+16:47:25.799 [Thread-3] INFO  Server - Wating For Cliens
+16:47:26.799 [Thread-4] INFO  Server - Wating For Cliens
+16:47:26.799 [Thread-3] INFO  Server - Wating For Cliens
+16:47:27.799 [Thread-4] INFO  Server - Wating For Cliens
+16:47:27.800 [Thread-3] INFO  Server - Wating For Cliens
+16:47:28.799 [Thread-4] INFO  Server - Wating For Cliens
+16:47:28.799 [Thread-3] INFO  Server - Wating For Cliens
+16:47:29.800 [Thread-4] INFO  Server - Wating For Cliens
+16:47:29.800 [Thread-3] INFO  Server - Wating For Cliens
+16:47:30.800 [Thread-4] INFO  Server - Wating For Cliens
+16:47:30.801 [Thread-3] INFO  Server - Wating For Cliens
+16:47:31.800 [Thread-4] INFO  Server - Wating For Cliens
+16:47:31.800 [Thread-3] INFO  Server - Wating For Cliens
+16:47:32.800 [Thread-3] INFO  Server - Wating For Cliens
+16:47:32.800 [Thread-4] INFO  Server - Wating For Cliens
+16:47:33.801 [Thread-3] INFO  Server - Wating For Cliens
+16:47:33.801 [Thread-4] INFO  Server - Wating For Cliens
+16:47:34.801 [Thread-3] INFO  Server - Wating For Cliens
+16:47:34.801 [Thread-4] INFO  Server - Wating For Cliens
+16:47:35.801 [Thread-3] INFO  Server - Wating For Cliens
+16:47:35.801 [Thread-4] INFO  Server - Wating For Cliens
+16:47:36.802 [Thread-3] INFO  Server - Wating For Cliens
+16:47:36.802 [Thread-4] INFO  Server - Wating For Cliens
+16:47:37.803 [Thread-3] INFO  Server - Wating For Cliens
+16:47:37.803 [Thread-4] INFO  Server - Wating For Cliens
+16:47:38.804 [Thread-3] INFO  Server - Wating For Cliens
+16:47:38.804 [Thread-4] INFO  Server - Wating For Cliens
+16:47:39.805 [Thread-4] INFO  Server - Wating For Cliens
+16:47:39.805 [Thread-3] INFO  Server - Wating For Cliens
+16:47:40.805 [Thread-3] INFO  Server - Wating For Cliens
+16:47:40.805 [Thread-4] INFO  Server - Wating For Cliens
+16:47:41.805 [Thread-3] INFO  Server - Wating For Cliens
+16:47:41.805 [Thread-4] INFO  Server - Wating For Cliens
+16:47:42.805 [Thread-4] INFO  Server - Wating For Cliens
+16:47:42.806 [Thread-3] INFO  Server - Wating For Cliens
+16:47:42.949 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: DESKTOP-991KDRG/10.100.102.9Port: 5400
+16:47:42.969 [pool-3-thread-1] INFO  ServerStrategyGenerateMaze - The User: Socket[addr=/10.100.102.9,port=59299,localport=5400] Have Create Maze With: MyMazeGenerator Size Of: Rows: 18 Cols: 18
+16:47:43.806 [Thread-4] INFO  Server - Wating For Cliens
+16:47:43.951 [Thread-3] INFO  Server - Wating For Cliens
+16:47:44.806 [Thread-4] INFO  Server - Wating For Cliens
+16:47:44.951 [Thread-3] INFO  Server - Wating For Cliens
+16:47:45.808 [Thread-4] INFO  Server - Wating For Cliens
+16:47:45.952 [Thread-3] INFO  Server - Wating For Cliens
+16:47:46.809 [Thread-4] INFO  Server - Wating For Cliens
+16:47:46.952 [Thread-3] INFO  Server - Wating For Cliens
+16:47:47.809 [Thread-4] INFO  Server - Wating For Cliens
+16:47:47.953 [Thread-3] INFO  Server - Wating For Cliens
+16:47:48.810 [Thread-4] INFO  Server - Wating For Cliens
+16:47:48.953 [Thread-3] INFO  Server - Wating For Cliens
+16:47:49.811 [Thread-4] INFO  Server - Wating For Cliens
+16:47:49.954 [Thread-3] INFO  Server - Wating For Cliens
+16:47:49.957 [JavaFX Application Thread] INFO  Server - Client Connected To Server: IP: DESKTOP-991KDRG/10.100.102.9Port: 5401
+16:47:49.981 [pool-4-thread-1] INFO  ServerStrategySolveSearchProblem - The User: Socket[addr=/10.100.102.9,port=59304,localport=5401] Solve Maze With: BreadthFirstSearch With Size Of: Rows: 18 Cols: 18
+16:47:50.954 [Thread-3] INFO  Server - Wating For Cliens
+16:47:50.958 [Thread-4] INFO  Server - Wating For Cliens
+16:47:51.955 [Thread-3] INFO  Server - Wating For Cliens
+16:47:51.959 [Thread-4] INFO  Server - Wating For Cliens
+16:47:52.956 [Thread-3] INFO  Server - Wating For Cliens
+16:47:52.959 [Thread-4] INFO  Server - Wating For Cliens
+16:47:53.955 [Thread-3] INFO  Server - Wating For Cliens
+16:47:53.960 [Thread-4] INFO  Server - Wating For Cliens
+16:47:54.956 [Thread-3] INFO  Server - Wating For Cliens
+16:47:54.960 [Thread-4] INFO  Server - Wating For Cliens
+16:47:55.956 [Thread-3] INFO  Server - Wating For Cliens
+16:47:55.960 [Thread-4] INFO  Server - Wating For Cliens
+16:47:56.957 [Thread-3] INFO  Server - Wating For Cliens
+16:47:56.961 [Thread-4] INFO  Server - Wating For Cliens
+16:47:57.956 [Thread-3] INFO  Server - Wating For Cliens
+16:47:57.960 [Thread-4] INFO  Server - Wating For Cliens
+16:47:58.957 [Thread-3] INFO  Server - Wating For Cliens
+16:47:58.961 [Thread-4] INFO  Server - Wating For Cliens
+16:47:59.958 [Thread-3] INFO  Server - Wating For Cliens
+16:47:59.963 [Thread-4] INFO  Server - Wating For Cliens
+16:48:00.958 [Thread-3] INFO  Server - Wating For Cliens
+16:48:00.963 [Thread-4] INFO  Server - Wating For Cliens
+16:48:01.958 [Thread-3] INFO  Server - Wating For Cliens
+16:48:01.963 [Thread-4] INFO  Server - Wating For Cliens
+16:48:02.958 [Thread-3] INFO  Server - Wating For Cliens
+16:48:02.963 [Thread-4] INFO  Server - Wating For Cliens
+16:48:03.958 [Thread-3] INFO  Server - Wating For Cliens
+16:48:03.963 [Thread-4] INFO  Server - Wating For Cliens
+16:48:04.959 [Thread-3] INFO  Server - Wating For Cliens
+16:48:04.963 [Thread-4] INFO  Server - Wating For Cliens
+16:48:05.960 [Thread-3] INFO  Server - Wating For Cliens
+16:48:05.964 [Thread-4] INFO  Server - Wating For Cliens
+16:48:06.959 [Thread-3] INFO  Server - Wating For Cliens
+16:48:06.965 [Thread-4] INFO  Server - Wating For Cliens
+16:48:07.960 [Thread-3] INFO  Server - Wating For Cliens
+16:48:07.965 [Thread-4] INFO  Server - Wating For Cliens
+16:48:08.961 [Thread-3] INFO  Server - Wating For Cliens
+16:48:08.966 [Thread-4] INFO  Server - Wating For Cliens
+16:48:09.960 [Thread-3] INFO  Server - Wating For Cliens
+16:48:09.966 [Thread-4] INFO  Server - Wating For Cliens
+16:48:10.961 [Thread-3] INFO  Server - Wating For Cliens
+16:48:10.966 [Thread-4] INFO  Server - Wating For Cliens
+16:48:11.961 [Thread-3] INFO  Server - Wating For Cliens
+16:48:11.966 [Thread-4] INFO  Server - Wating For Cliens
+16:48:12.962 [Thread-3] INFO  Server - Wating For Cliens
+16:48:12.967 [Thread-4] INFO  Server - Wating For Cliens
+16:48:13.962 [Thread-3] INFO  Server - Wating For Cliens
+16:48:13.967 [Thread-4] INFO  Server - Wating For Cliens
+16:48:14.962 [Thread-3] INFO  Server - Wating For Cliens
+16:48:14.967 [Thread-4] INFO  Server - Wating For Cliens
+16:48:15.963 [Thread-3] INFO  Server - Wating For Cliens
+16:48:15.968 [Thread-4] INFO  Server - Wating For Cliens
+16:48:16.963 [Thread-3] INFO  Server - Wating For Cliens
+16:48:16.969 [Thread-4] INFO  Server - Wating For Cliens
+16:48:17.963 [Thread-3] INFO  Server - Wating For Cliens
+16:48:17.969 [Thread-4] INFO  Server - Wating For Cliens
+16:48:18.965 [Thread-3] INFO  Server - Wating For Cliens
+16:48:18.970 [Thread-4] INFO  Server - Wating For Cliens
+16:48:19.965 [Thread-3] INFO  Server - Wating For Cliens
+16:48:19.970 [Thread-4] INFO  Server - Wating For Cliens
+16:48:20.966 [Thread-3] INFO  Server - Wating For Cliens
+16:48:20.971 [Thread-4] INFO  Server - Wating For Cliens
+16:48:21.966 [Thread-3] INFO  Server - Wating For Cliens
+16:48:21.972 [Thread-4] INFO  Server - Wating For Cliens
+16:48:22.966 [Thread-3] INFO  Server - Wating For Cliens
+16:48:22.971 [Thread-4] INFO  Server - Wating For Cliens
+16:48:23.966 [Thread-3] INFO  Server - Wating For Cliens
+16:48:23.972 [Thread-4] INFO  Server - Wating For Cliens
+16:48:24.966 [Thread-3] INFO  Server - Wating For Cliens
+16:48:24.973 [Thread-4] INFO  Server - Wating For Cliens
+16:48:25.968 [Thread-3] INFO  Server - Wating For Cliens
+16:48:25.974 [Thread-4] INFO  Server - Wating For Cliens
+16:48:26.968 [Thread-3] INFO  Server - Wating For Cliens
+16:48:26.974 [Thread-4] INFO  Server - Wating For Cliens
+16:48:27.968 [Thread-3] INFO  Server - Wating For Cliens
+16:48:27.974 [Thread-4] INFO  Server - Wating For Cliens
+16:48:28.968 [Thread-3] INFO  Server - Wating For Cliens
+16:48:28.974 [Thread-4] INFO  Server - Wating For Cliens
+16:48:29.969 [Thread-3] INFO  Server - Wating For Cliens
+16:48:29.975 [Thread-4] INFO  Server - Wating For Cliens
+16:48:30.969 [Thread-3] INFO  Server - Wating For Cliens
+16:48:30.975 [Thread-4] INFO  Server - Wating For Cliens
+16:48:31.970 [Thread-3] INFO  Server - Wating For Cliens
+16:48:31.975 [Thread-4] INFO  Server - Wating For Cliens
+16:48:32.970 [Thread-3] INFO  Server - Wating For Cliens
+16:48:32.975 [Thread-4] INFO  Server - Wating For Cliens
+16:48:33.970 [Thread-3] INFO  Server - Wating For Cliens
+16:48:33.977 [Thread-4] INFO  Server - Wating For Cliens
+16:48:34.971 [Thread-3] INFO  Server - Wating For Cliens
+16:48:34.977 [Thread-4] INFO  Server - Wating For Cliens
+16:48:35.972 [Thread-3] INFO  Server - Wating For Cliens
+16:48:35.978 [Thread-4] INFO  Server - Wating For Cliens
+16:48:36.972 [Thread-3] INFO  Server - Wating For Cliens
+16:48:36.978 [Thread-4] INFO  Server - Wating For Cliens
+16:48:37.972 [Thread-3] INFO  Server - Wating For Cliens
+16:48:37.979 [Thread-4] INFO  Server - Wating For Cliens
+16:48:38.972 [Thread-3] INFO  Server - Wating For Cliens
+16:48:38.979 [Thread-4] INFO  Server - Wating For Cliens
+16:48:39.973 [Thread-3] INFO  Server - Wating For Cliens
+16:48:39.981 [Thread-4] INFO  Server - Wating For Cliens
+16:48:40.973 [Thread-3] INFO  Server - Wating For Cliens
+16:48:40.981 [Thread-4] INFO  Server - Wating For Cliens

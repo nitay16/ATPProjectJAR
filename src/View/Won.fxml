@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="380.0" prefWidth="550.0" style="-fx-background-image: url(/Images/Win.png); -fx-border-color: #000000;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.Won">
+   <children>
+      <Button id="StartButtonMyView" layoutX="313.0" layoutY="312.0" mnemonicParsing="false" onAction="#StartOver" prefHeight="39.0" prefWidth="163.0" style="-fx-background-color: #ffff66;" text="StartOver" textAlignment="CENTER">
+         <font>
+            <Font name="Bauhaus 93" size="18.0" />
+         </font>
+         <effect>
+            <DropShadow radius="14.68" width="39.72" />
+         </effect>
+      </Button>
+      <Button id="StartButtonMyView" layoutX="63.0" layoutY="312.0" mnemonicParsing="false" onAction="#ExitGame" prefHeight="39.0" prefWidth="163.0" style="-fx-background-color: #ffff66;" text="ExitGame " textAlignment="CENTER">
+         <font>
+            <Font name="Bauhaus 93" size="18.0" />
+         </font>
+         <effect>
+            <DropShadow radius="14.68" width="39.72" />
+         </effect>
+      </Button>
+   </children>
+</AnchorPane>

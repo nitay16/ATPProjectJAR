@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="200.0" prefWidth="500.0" style="-fx-background-image: url(/Images/Back.png);" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.ChoosePlayer">
+   <children>
+      <Label id="Label_Invaild" layoutX="131.0" layoutY="24.0" text="Choose Player">
+         <font>
+            <Font name="Bauhaus 93" size="38.0" />
+         </font>
+         <effect>
+            <DropShadow>
+               <color>
+                  <Color red="0.7872865200042725" green="0.8736842274665833" blue="0.29769980907440186" />
+               </color>
+            </DropShadow>
+         </effect></Label>
+      <Button layoutX="315.0" layoutY="98.0" mnemonicParsing="false" onAction="#ButtonPlayer3" prefHeight="70.0" prefWidth="70.0" style="-fx-background-color: transparent; -fx-background-image: url(/Images/PlayerDown1.png);" />
+      <Button layoutX="216.0" layoutY="98.0" mnemonicParsing="false" onAction="#ButtonPlayer2" prefHeight="70.0" prefWidth="70.0" style="-fx-background-color: transparent; -fx-background-image: url(/Images/PlayerDown2.png);" />
+      <Button layoutX="121.0" layoutY="98.0" mnemonicParsing="false" onAction="#ButtonPlayer1" prefHeight="70.0" prefWidth="70.0" style="-fx-background-color: transparent; -fx-background-image: url(/Images/PlayerDown3.png);" />
+   </children>
+</AnchorPane>

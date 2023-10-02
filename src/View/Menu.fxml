@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.media.MediaView?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="795.0" style="-fx-background-image: url(/Images/background.png); -fx-border-color: #000000;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.Menu">
+        <children>
+            <Button layoutX="330.0" layoutY="452.0" mnemonicParsing="false" onAction="#Start_To_play_button" prefHeight="83.0" prefWidth="134.0" style="-fx-background-color: #ffff66;" text="Start To Play" textAlignment="CENTER">
+                <font>
+                    <Font name="Bauhaus 93" size="18.0" />
+                </font>
+                <effect>
+                    <DropShadow radius="14.68" width="39.72" />
+                </effect>
+            </Button>
+            <MediaView fx:id="MediaView" fitHeight="200.0" fitWidth="200.0" layoutX="297.0" layoutY="239.0" />
+      <MenuBar id="MenuBarGame" layoutX="17.0" layoutY="17.0" prefHeight="38.0" prefWidth="265.0" style="-fx-background-color: #ffff66;">
+         <menus>
+            <Menu mnemonicParsing="false" text="File">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#New" text="New" />
+                  <MenuItem mnemonicParsing="false" onAction="#Save" text="Save" />
+                  <MenuItem mnemonicParsing="false" onAction="#Load" text="Load" />
+               </items>
+            </Menu>
+            <Menu mnemonicParsing="false" text="Options">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#Properties" text="Properties" />
+               </items>
+            </Menu>
+            <Menu mnemonicParsing="false" onAction="#HelpButton" text="Help" />
+            <Menu mnemonicParsing="false" onAction="#About" text="About" />
+            <Menu mnemonicParsing="false" onAction="#Exit" text="Exit" />
+         </menus>
+         <effect>
+            <DropShadow />
+         </effect>
+      </MenuBar>
+        </children>
+    </AnchorPane>
