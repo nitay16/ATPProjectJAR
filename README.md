@@ -23,13 +23,13 @@ Feel free to explore the code and customize the project as desired!
 
 ## Screen Shots
 # Choose Player
-  <img src="DisplayForReadme/ChosePlayer.JPG" >
+  <img src="DisplayForReadme/ChosePlayer.jpg" >
 
 # Game Display
-  <img src="DisplayForReadme/GameDisplay.JPG" >
+  <img src="DisplayForReadme/GameDisplay.jpg" >
 
 # Maze Dimensions
-  <img src="DisplayForReadme/SelectDimensions.JPG" >
+  <img src="DisplayForReadme/SelectDimensions.jpg" >
 
 # Select Algorithm for solving the maze
-  <img src="DisplayForReadme/SelectingAlgorithm.JPG" >
+  <img src="DisplayForReadme/SelectingAlgorithm.jpg" >
